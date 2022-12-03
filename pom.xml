@@ -559,11 +559,10 @@
             </build>
         </profile>
     </profiles>
-
     <scm>
-        <connection>scm:git:git@github.com:sfg-beer-works/sfg-beer-works-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:sfg-beer-works/sfg-beer-works-bom.git</developerConnection>
-        <url>https://github.com/sfg-beer-works/sfg-beer-works-bom</url>
+        <connection>scm:git:git@github.com:fofanaabou/sfg-beer-works-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:fofanaabou/sfg-beer-works-bom.git</developerConnection>
+        <url>https://github.com/fofanaabou/sfg-beer-works-bom</url>
         <tag>HEAD</tag>
     </scm>
 
