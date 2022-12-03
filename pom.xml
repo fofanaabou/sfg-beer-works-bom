@@ -538,7 +538,7 @@
                         </executions>
                         <configuration>
                             <!--                Exclude Lombok enhanced classes-->
-                            <excludePackageNames>guru.sfg.brewery.model.*:*.mapper.*:*.domain.*:*.mappers.*</excludePackageNames>
+                            <excludePackageNames>fofana.sfg.brewery.model.*:*.mapper.*:*.domain.*:*.mappers.*</excludePackageNames>
                         </configuration>
                     </plugin>
                     <plugin>
